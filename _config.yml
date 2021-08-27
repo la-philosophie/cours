@@ -35,11 +35,12 @@ prologues:
   - path: chapters/prologue.md
     sections:
       - path: chapters/prologue2.md
-chapters:
-  - path: chapters/01.md
-    sections:
-      - path: chapters/01-1.md
-      - path: chapters/01-2.md
-  - path: chapters/02.md
-epilogues:
-  - path: chapters/epilogue.md
+      - path: chapters/prologue3.md
+#chapters:
+#  - path: chapters/01.md
+#    sections:
+#      - path: chapters/01-1.md
+#      - path: chapters/01-2.md
+#  - path: chapters/02.md
+#epilogues:
+#  - path: chapters/epilogue.md
