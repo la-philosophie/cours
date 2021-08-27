@@ -1,10 +1,10 @@
 permalink:           pretty
 
 # Setup
-title:               'JekyllBook'
-tagline:             'A Jekyll theme'
-url:                 https://ebetica.github.io/jekyllbook/
-baseurl:             '/jekyllbook'
+title:               'La philosophie'
+tagline:             'Cours de philosophie pour première et terminale'
+url:                 https://github.com/la-philosophie/cours
+baseurl:             '/'
 homepage_title:      Home
 default_lang:        'en'
 
@@ -13,7 +13,7 @@ author:
   name:              Zeming Lin
   url:               https://twitter.com/ebetica
 github:
-  repo:              https://github.com/ebetica/jekyllbook/
+  repo:              https://github.com/la-philosophie/cours
 
 # Custom vars
 version:             1.0.0
@@ -45,16 +45,3 @@ chapters:
   - path: chapters/02.md
 epilogues:
   - path: chapters/epilogue.md
-
-
-# If you want to support multiple languages
-zh:
-  title: 'JekyllBook but in Chinese'
-  tagline: 'A translated Jekyll theme'
-  chapters:
-    - path: zh/01.md
-      sections:
-        - path: zh/01-1.md
-        - path: zh/01-2.md
-    - path: zh/02.md
-
