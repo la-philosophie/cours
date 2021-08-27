@@ -1,4 +1,4 @@
-# La Philosophie en classe au lycée Saint-Michel
+## La Philosophie en classe au lycée Saint-Michel
 
 ## Présentation du site
 
