@@ -1,3 +1,4 @@
+
 ---
 layout: default
 title: Les concepts
@@ -24,6 +25,9 @@ affirmative qui postule quelque-chose, qui soutient quelque-chose) et le réel.
 La vérité c'est donc l'adéquation entre ma pensée et l'état de fait du réel.
 ```
 
+---
+
+
 ### (2) Un concept n'est pas abstrait, n'est jamais uniquement abstrait, il est toujours concrétisé. Qu'est-ce que cela signifie ? 
 
 ⏳ Un concept n'est jamais tombé du ciel par hasard. Ce sont les humains qui l'ont bâtit, et pourquoi ? Parce qu'au bout d'un moment dans l'histoire s'est posé un **problème**. Un problème n'est pas forcément un soucis, c'est plutôt une interrogation qui invite à la réflexion. Et le genre de problème auquel se réfère le philosophe n'est pas du tout le même genre de problème auquel se réfère le mathématicien. Le mathématicien vise à résoudre un problème avec un résultat final et définitif, par exemple cette question dont le résultat sera toujours le même dans des milliards d'années :
@@ -40,9 +44,33 @@ C'est que le concept est un terme compris comme une généralisation abstraite d
 
 👪 Et bien comme les mœurs changent à travers l'histoire, notre rapport au réel change également, le résultat de notre généralisation tout autant.  Si bien que originellement, `vérité` découle du latin `veritas` qui découle lui-même du grec `ἀλήθεια` (*alethéïa*) qui n'a absolument pas le sens d'adéquation entre un jugement et le réel. Originellement, `ἀλήθεια` signifie **dé-voilement**, voici donc un sens possible du concept, un sens encore plus général que celui que nous lui avions trouvé juste avant, un sens qui se passe totalement de la distinction entre le sujet et le réel. 
 
-Pour le grec, la vérité est le fait de faire sortir une chose du retrait, d'un endroit où elle nous était inaccessible. **Là où nous aujourd'hui nous  postulons que la vérité est une adéquation de mesure, auparavant elle était une action de libération**. C'est que le problème n'était pas le même pour eux que pour nous : 
 
-🔬 Aujourd'hui où la science est très technique on mesure avec des machines très complexes des choses toujours inaccessibles à l'œil nue et demandant une grande rigueur, car **si on avait pas cette rigueur on aurait pas les microprocesseurs et les cartes graphiques et les objets connectés qui demandent un usinage extrêmement précis pour fonctionner**. Tandis que pour le grec, tout cela n'existe pas encore, et son problème principal au quotidien c'est de s'approprier le réel pour fonder une culture humaine, une culture grecque, en sortant du retrait les choses de la nature, les idées, pour pouvoir les manier plus facilement avec la pensée. Le but derrière la fondation d'une culture, c'est l'auto-dressage de l'homme par lui-même en vue de rendre possible le vivre-ensemble. Pour le philosophe Aristote, cette caractéristique de l'homme lui est si essentielle qu'il défini l'homme comme étant un "animal politique" (Anthropos physi politikon zoon - l'homme a pour nature la politique).
+```
+📢 Associé à cette idée de vérité comme dévoilement, le philosophe Socrates 
+pratique la maïeutique : l'art de faire accoucher les idées, faire surgir 
+les fondements et présupposés des opinions des gens en pratiquant un dialogue 
+avec eux dans lequel il ne cesse d'extirper aux interlocuteurs leurs opinions 
+sur à peu près tous les sujets imaginables. Ces dialogues sont retranscrit 
+par son élève Platon.
+```
+
+
+🌲Pour le grec, la vérité est le fait de faire sortir une chose du retrait, d'un endroit où elle nous était inaccessible. **Là où nous aujourd'hui nous  postulons que la vérité est une adéquation de mesure, auparavant elle était une action de libération**. C'est que le problème n'était pas le même pour eux que pour nous : 
+
+
+🔬 Aujourd'hui où la science est très technique on mesure avec des machines très complexes des choses toujours inaccessibles à l'œil nue et demandant une grande rigueur, car **si on avait pas cette rigueur on aurait pas les microprocesseurs et les cartes graphiques et les objets connectés qui demandent un usinage extrêmement précis pour fonctionner**. 
+
+
+👨‍🏫 Tandis que pour le grec, tout cela n'existe pas encore, et son problème principal au quotidien c'est de s'approprier le réel pour fonder une culture humaine, une culture grecque, en sortant du retrait les choses de la nature, les idées, pour pouvoir les manier plus facilement avec la pensée. Le but derrière la fondation d'une culture, c'est l'auto-dressage de l'homme par lui-même en vue de rendre possible le vivre-ensemble. 
+
+
+```
+📢 Pour le philosophe Aristote, cette caractéristique de l'homme lui est si 
+essentielle qu'il défini l'homme comme étant un "animal politique" : 
+Άνθρωπος φύσει πολιτικών ζώον (Anthropos phusei politikon zoon - l'homme a pour
+nature la politique)
+```
+
 
 ----
 
