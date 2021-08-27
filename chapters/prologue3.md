@@ -54,7 +54,7 @@ Leur concept c'est de vendre des pailles en plastique fabriquées à partir de p
 
 Maintenant l'entreprise fonctionne à merveille, si bien qu'une quantité énorme de ces pailles recyclables se retrouvent dans les fonds marins. Les mœurs allant et venant, on stipule désormais qu'il n'y a plus besoins de pailles en plastiques recyclable, et d'ailleurs on les interdit tellement elle font du dégât : être recyclable c'est bien, mais ça ne sert à rien contre la pollution des fonds marins.  L'entreprise *Plok™* est au plus mal. 
 
-Un fond d'investisseur décide de racheter l'entreprise, et la renomme *Plik™*. Plik™* revient avec un nouveau concept : des pailles faites de pâtes (semoule de blé dure + eau). En fait, ils n'ont pas simplement proposé un nouveau constituant pour les pailles, ils ont posés un nouveau problème : comment distribuer aux consommateur une grande quantité de pâtes sans que son comportement de gaspilleur n'impacte l'écosystème ? 
+Un fond d'investisseurs décide de racheter l'entreprise, et la renomme *Plik™*. *Plik™* revient avec un nouveau concept : des pailles faites de pâtes (semoule de blé dure + eau). En fait, ils n'ont pas simplement proposé un nouveau constituant pour les pailles, ils ont posés un nouveau problème : comment distribuer aux consommateur une grande quantité de pâtes sans que son comportement de gaspilleur n'impacte l'écosystème ? 
 
 Nouvelle problématique, nouveau concept donc ! 
 
