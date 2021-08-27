@@ -3,15 +3,12 @@ permalink:           pretty
 # Setup
 title:               'La philosophie'
 tagline:             'Cours de philosophie pour première et terminale'
-url:                 https://github.com/la-philosophie/cours
+url:                 https://la-philosophie.github.io/cours/
 baseurl:             '/'
 homepage_title:      Home
 default_lang:        'en'
 
 # About/contact
-author:
-  name:              Zeming Lin
-  url:               https://twitter.com/ebetica
 github:
   repo:              https://github.com/la-philosophie/cours
 
