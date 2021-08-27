@@ -42,5 +42,5 @@ prologues:
 #      - path: chapters/01-1.md
 #      - path: chapters/01-2.md
 #  - path: chapters/02.md
-#epilogues:
-#  - path: chapters/epilogue.md
+epilogues:
+  - path: chapters/bonus.md
