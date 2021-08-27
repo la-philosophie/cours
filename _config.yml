@@ -6,7 +6,7 @@ tagline:             'Cours de philosophie pour première et terminale'
 url:                 https://la-philosophie.github.io/cours/
 baseurl:             '/'
 homepage_title:      Accueil
-default_lang:        'en'
+default_lang:        'fr'
 
 # About/contact
 github:
