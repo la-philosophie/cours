@@ -1,6 +1,12 @@
 ---
 layout: default
-title: Introduction à la philosophie
+title: Introduction
 ---
 
-You can add any number of additional "prologue" chapters to the beginning of the book!
+flowchart LR
+    A-- This is the text! ---B
+	
+```mermaid
+flowchart LR
+    A-- This is the text! ---B
+```
