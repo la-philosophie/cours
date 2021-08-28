@@ -29,11 +29,20 @@ title: Déroulement
 Les cours de philosophie contiennent plusieurs types d'informations auxquels il faudra porter une attention particulière. Pour rendre la forme du contenu plus agréable à lire et plus facile à apprendre j'utilise un code-émoji pour chaque type de contenu.
 
 🧐 -> Réfère à une astuce
+
 ⚡ -> Réfère à une connaissance à maîtriser
+
 👀 -> Réfère à un exemple
+
 👉 -> Réfère à un point important
+
 🔮 -> Réfère à des liens avec les connaissances préalables 
+
 📑 -> Réfère à un point méthodologique 
+
 📢 -> Réfère à un rappel ou explicitation
+
 📌 -> Réfère à une schématisation
-⭐ -> Réfère à un vocabulaire spécifique 
+
+⭐ -> Réfère à un vocabulaire spécifique
+ 
