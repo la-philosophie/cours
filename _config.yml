@@ -36,7 +36,8 @@ prologues:
     sections:
       - path: chapters/prologue2.md
       - path: chapters/prologue3.md
-      - path: chapters/HLP/01.md
+  - path: chapters/HLP/01.md
+      - path: chapters/HLP/02.md
 #chapters:
 #  - path: chapters/01.md
 #    sections:
